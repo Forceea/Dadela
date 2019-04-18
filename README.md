@@ -1,5 +1,7 @@
 # Dadela
 
+![](dadela-logo.png)
+
 ## Introduction
 
 Dadela is a data generation language (DGL);
