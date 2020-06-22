@@ -15,9 +15,8 @@ A variable is a data storage.
 ## Notes
 
 * The main usage of variables is to assign the same value to different components.
-* The <Expression> for a `number` variable includes the arithmetic expressions
-found in most programming languages (see examples).
-* The <Expression> for a `string` variable use <space> as a concatenator (see examples).
+* The `number` variable includes the arithmetic expressions found in most programming languages (see examples).
+* The `string` variable uses <space> as a concatenator (see examples).
 The double quotations are used when a string includes a <space>, a comma (,) or a variable reference (@var).
 * A variable is called using `@<VariableIdentifier>`, e.g `@myVar`.
 * The suggested capitalization is camelCase, e.g. `myVar`.
